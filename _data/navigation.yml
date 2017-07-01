@@ -1,8 +1,8 @@
+# main links
 main:
-  - 
-    title: "Blog"
-    url: /blog/
-    
-  - 
-    title: "About"
+#  - title: "Blog"
+#    url: /blog/
+  - title: "Jupyter Notebook"
+    url: /notebook/
+  - title: "About"
     url: /about/
