@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh"
 title                    : "mouse1231"
 title_separator          : "-"
-name                     : "David Sheehan"
+name                     : "王浩"
 description              : "My personal blog to explore the world of data science."
-url                      : "https://dashee87.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mouse1231.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "dashee87/dashee87.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mouse1231/mouse1231.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Sheehan"
-  avatar           : "bio-photo.jpg"
-  bio              : "Data scientist interested in sports, politics and Simpsons references"
-  location         : "London via Cork"
-  email            : "davidfsheehan87@gmail.com"
+  name             : "王浩"
+  avatar           : "OdJ7ZWH.jpg"
+  bio              : "一个有手艺的人才能认清自己和世界的边界。"
+  location         : "杭州"
+  email            : "haowangcv@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : dashee87
+  github           : mouse1231
   google_plus      :
   keybase          :
   instagram        :
